@@ -1,3 +1,9 @@
 <html lang="pt-Br>
 
-<
+ <head>
+ <link rel="stylesheet" href"styles.css"css">
+ <link rel="preconnec" href=https://fronts.googleapis.com">
+ <link rel="preconnet" href="https://fronts.gstatic.com" crossorigin>
+ <link
+       href="https://fonts.googleapis.com/css2?family=chakra+petch:ital,wght@0,300;0,400;o,500;0,600;0,700;1300;1400;1500;1600;1700&display=swap"
+       rel="stylesheet">
